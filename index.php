@@ -5,10 +5,10 @@
 <html lang="en">
 <head>
     <meta charset=UTF-8>
-    <title>sabrina chin</title>
+    <title>Lovebox</title>
     <link rel=stylesheet href=style.css>
-    <meta name=description content="Send something nice to your girlfriend :)">
-    <meta name=keywords content=sabrina,chin,virginia,tech,student,education,change,pretty>
+    <meta name=description content="Send something nice :)">
+    <meta name=keywords content=lovebox,opensource>
     <meta name=author content="Luke Ogburn">
     <meta name=viewport content=width=device-width,initial-scale=1.0>
     <style>
@@ -64,7 +64,7 @@
 </head>
 <body>
     <form method=POST action=add.php>
-        <input type=text name=text placeholder="Send Sabrina something sweet" maxlength=100 autofocus>
+        <input type=text name=text placeholder="Send your SO something sweet" maxlength=100 autofocus>
         <div class=buttonDiv>
             <button type=submit name=submit value=now>SEND NOW</button>
             <button type=submit name=submit value=list>ADD TO LIST</button>
