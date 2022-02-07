@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset=UTF-8>
-    <title>sabrina chin</title>
+    <title>Lovebox</title>
     <link rel=stylesheet href=style.css>
-    <meta name=description content="Send something nice to your girlfriend :)">
-    <meta name=keywords content=sabrina,chin,virginia,tech,student,education,change,pretty>
+    <meta name=description content="Send something nice :)">
+    <meta name=keywords content=lovebox,opensource>
     <meta name=author content="Luke Ogburn">
     <meta name=viewport content=width=device-width,initial-scale=1.0>
     <style>
